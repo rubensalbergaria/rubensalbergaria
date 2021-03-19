@@ -7,8 +7,8 @@ I'm Rubens from Brazil, and I do content on web development using React JS. I re
 
 ## Skills
 
-⚛React 🖥Node  🐬Mysql 
-💻 HTML, CSS, JS
+* ⚛React 🖥Node  🐬Mysql 
+* 💻 HTML, CSS, JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensalbergaria&show_icons=true)
 
