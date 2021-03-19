@@ -1,7 +1,7 @@
 ### Hi there 👋, Rubens Albergaria
 #### Web Development - React JS
 
-https://github.com/rubensalbergaria/rubensalbergaria/blob/main/Mint%20Green%20Dotted%20Lines%20Web%20Designer%20Business%20Card.png
+(https://github.com/rubensalbergaria/rubensalbergaria/blob/main/Mint%20Green%20Dotted%20Lines%20Web%20Designer%20Business%20Card.png)
 
 I'm Rubens from Brazil, and I do content on web development using React JS. I really enjoy learning languages and I'm very focused on improving myself in web development using the React framework as the main tool. I also enjoy design in general, especially UI and UX.
 
