@@ -6,14 +6,10 @@ I'm Rubens from Brazil, and I do content on web development using React JS. I re
 
 ## Skills
 
-* ⚛ React
-* ⌨ Node 
-* 🐬 Mysql
+* ⚛ React * ⌨ Node  * 🐬 Mysql
 * 💻 HTML, CSS, JS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensalbergaria&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensalbergaria)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensalbergaria&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensalbergaria)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linkedin
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubensalbergaria/)  
